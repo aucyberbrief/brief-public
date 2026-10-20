@@ -1,0 +1,4 @@
+title: AU Cyber Brief
+description: Daily cyber security briefings with an Australian focus.
+theme: jekyll-theme-minimal
+exclude: [README.md]
