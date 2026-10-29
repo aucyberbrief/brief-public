@@ -9,7 +9,7 @@ Each brief summarises the day's notable incidents, advisories and research in ou
 
 ## Archive
 
-- [Daily briefs](briefings/daily/): one per weekday, from July 2026.
+- [Daily briefs](briefings/daily/): one per weekday, from 20 October 2026.
 - [Intel reports](intel/): monthly, quarterly and yearly pattern analysis, with PDFs.
 
 ## Get the brief on Signal
